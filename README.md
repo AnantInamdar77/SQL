@@ -1,0 +1,2 @@
+# SQL
+basic of sql 
